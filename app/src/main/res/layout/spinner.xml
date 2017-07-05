@@ -1,0 +1,8 @@
+
+    <Spinner xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="visible"
+        android:background="@drawable/abc_ab_bottom_solid_light_holo"
+        android:entries="@array/erode"></Spinner>
+

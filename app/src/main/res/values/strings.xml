@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Framework OpenCV a CUDA</string>
+    <string name="action_settings">Nastavení</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="info">O programu </string>
+
+    <string name="sekce1">Tato aplikace ukazuje schopnosti dnešních mobilních zařízení a jejich výkonu.</string>
+
+    <string name="sekce2">Využití výkonu mobilního zařízení pro analýzu obrazu v reálném času, získaného z fotoaparátu zařízení.</string>
+    <string name="sekce3">Aplikace po pořízení snímku vyhledá a vypíše text, který nalezla.</string>
+    <string name="sekce4">Tato aplikace ukazuje schopnosti dnešních mobilních zařízení a jejich výkonu.</string>
+    <string name="sekce5">Tato aplikace ukazuje schopnosti dnešních mobilních zařízení a jejich výkonu.</string>
+
+    <string name="title_activity_detekce_obliceje">DetekceObliceje</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="button_spustit">Spustit</string>
+    <string name="spustit_message">Enter a message</string>
+    <string name="title_activity_hlavni">Hlavní stránka</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_camera_features">Hry s fofoaparátem</string>
+
+    <string name="action_gray">Černobílá kamera</string>
+    <string name="action_rgbpreview">Barevný náhled</string>
+    <string name="action_cannyedges">Zvýraznit okraje</string>
+    <string name="action_cannycoloredges">Canny barevné okraje</string>
+    <string name="action_houghcircles">Hough kružnice</string>
+    <string name="action_houghlines">Hough úsečky</string>
+    <string name="action_colourcontour">Colour Contour</string>
+    <string name="action_colourquad">Colour Quad</string>
+    <string name="action_facedetect">Detekce obličeje</string>
+    <string name="action_gftt">Good Features To Track</string>
+    <string name="action_opflow">Tok světla</string>
+    <string name="action_swapcamera">Změnit kameru</string>
+    <string name="action_toggletitles">Vyp/Zap popisky</string>
+    <string name="action_pixelizace">Pixelizace</string>
+    <string name="vyber">Vyber</string>
+    <string-array name="erode">
+        <item>Obdelníková eroze</item>
+        <item>Křížová eroze</item>
+        <item>Elipsová eroze</item>
+
+    </string-array>
+    <string name="title_activity_about_photo">AboutPhotoActivity</string>
+</resources>

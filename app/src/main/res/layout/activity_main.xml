@@ -1,0 +1,17 @@
+<android.support.v4.view.ViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.framework.ales.frameworkcv.MainActivity"
+    android:clickable="false"
+    android:focusable="false" >
+<EditText android:id="@+id/spustit_message"
+android:hint="@string/spustit_message"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />
+<Button android:layout_width="wrap_content"
+    android:id="@+id/btnSpustit"
+android:layout_height="wrap_content"
+android:text="@string/button_spustit" />
+</android.support.v4.view.ViewPager>

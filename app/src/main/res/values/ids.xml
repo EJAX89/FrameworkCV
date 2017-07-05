@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="mainHeaderText" type="id" />
+    <item name="mainHeaderIcon" type="id" />
+    <item name="mainListView" type="id" />
+    <item name="btn" type="id">Spustit</item>
+</resources>
